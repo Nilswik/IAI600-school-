@@ -1,0 +1,4 @@
+,Best Params,CV RMSE,Improvement over baseline
+Decision Tree,"{'max_depth': 10, 'max_features': None, 'min_samples_leaf': 4, 'min_samples_split': 10}",60719.76756146998,15.0%
+Ridge Regression,{'alpha': 10.0},69070.40042665196,-0.0%
+Lasso Regression,"{'alpha': 10.0, 'max_iter': 10000}",69072.4824447061,0.0%
